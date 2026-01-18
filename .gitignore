@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+
+# Large / generated files
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ignore NewsSumm dataset files (not redistributed)
+data/train.jsonl
+data/val.jsonl
+data/test.jsonl
+data/NewsSumm_Dataset.xlsx
