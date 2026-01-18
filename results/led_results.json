@@ -1,0 +1,13 @@
+{
+  "model": "allenai/led-base-16384",
+  "num_samples": 50,
+  "max_input_length": 4096,
+  "max_summary_length": 180,
+  "num_beams": 4,
+  "device": "cpu",
+  "rouge": {
+    "ROUGE-1": 0.479,
+    "ROUGE-2": 0.2648,
+    "ROUGE-L": 0.352
+  }
+}
