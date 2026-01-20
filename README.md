@@ -20,6 +20,7 @@ Dataset splits:
 
 The dataset is not redistributed in this repository.
 Please download it from the official source mentioned in the NewsSumm paper.
+* NewsSumm dataset link (Zenodo): https://zenodo.org/records/17670865
 
 ## Implemented Models
 **Baselines:**
